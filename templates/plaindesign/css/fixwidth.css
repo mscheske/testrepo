@@ -1,0 +1,284 @@
+/******************************/
+/****** Joomla Templates ******/
+/******************************/
+#header-outer { height: 80px; padding: 10px 0px 10px 0px; }
+#copyright-outer { padding: 10px 0px; height: 50px; }
+/******************************/
+/****** Joomla Templates ******/
+/******************************/
+#top-float { float: left; width: 100%; padding: 5px 0px; }
+#banner-float { float: left; width: 100%; }
+#advert-float, #upper-float, #bottom-float, #footer-float { float: left; width: 100%; padding: 15px 0px; }
+#body-float { float: left; width: 100%; padding: 20px 0px 0px 0px; }
+/******************************/
+/****** Joomla Templates ******/
+/******************************/
+#header-inner, #top-inner, #banner-inner, #advert-inner, #upper-inner, #body-inner, #bottom-inner, #footer-inner, #copyright-inner { width: 960px; margin: 0 auto; padding: 0px 15px; }
+/******************************/
+/****** Joomla Templates ******/
+/******************************/
+#logo { float: left; }
+#topmenu { float: left; }
+#topright { float: right; }
+#header { float: right; max-width: 590px; height: 80px; overflow: hidden; }
+.auto #copyright, .auto #designer { text-align: center; padding-top: 16px; }
+.show #copyright { float: left; margin-top: 16px; }
+.show #designer { float: right; margin-top: 16px; }
+/******************************/
+/****** Joomla Templates ******/
+/******************************/
+#body-right-only { float: left; width: 640px; }
+#body-left-only { float: right; width: 640px; }
+#body-left-right { float: left; width: 520px; margin-left: 20px; }
+#body-right-center { float: left; width: 690px; }
+#body-left-center { float: right; width: 690px; }
+#body-left-right-center { float: left; width: 520px; margin-left: 20px; }
+#right-right-only { float: right; width: 300px; }
+#left-left-only { float: left; width: 300px; }
+#left-left-right { float: left; width: 200px; }
+#right-left-right { float: right; width: 200px; }
+/******************************/
+/******* Joomla Default *******/
+/******************************/
+body { margin: 0px; font-size: 13px; line-height: 1.6; }
+p { margin: 12px 0px; }
+ul, li, .menu { list-style: none; padding: 0; margin: 0; }
+img { border: none; padding: 0; margin: 0; }
+.clr { clear: both; }
+h1, h2, h3, h4, h5 { margin: 0px;}
+h1 { font-size: 22px; }
+h2 { font-size: 20px; }
+h3 { font-size: 18px; }
+h4 { font-size: 16px; }
+h5 { font-size: 14px; }
+form input { font-size: 15px; }
+form select { font-size: 15px; }
+/******************************/
+/******* Joomla Default *******/
+/******************************/
+#topmenu .menu li { float: left; margin-right: 15px; }
+#topright .menu li { float: left; margin-left: 15px; }
+#topmenu .menu li li, #topmenu .menu li li li, #topright .menu li li, #topright .menu li li li { display: none; }
+/******************************/
+/******* Joomla Default *******/
+/******************************/
+.fontfamily1, .fontfamily1 .inputbox, .fontfamily1 input.button { font-family: Arial, Helvetica, sans-serif; }
+.fontfamily2, .fontfamily2 .inputbox, .fontfamily2 input.button { font-family: "Times New Roman", Times, serif; }
+.fontfamily3, .fontfamily3 .inputbox, .fontfamily3 input.button { font-family: "Courier New", Courier, monospace; }
+.fontfamily4, .fontfamily4 .inputbox, .fontfamily4 input.button { font-family: "Georgia", Times New Roman, Times, serif; }
+.fontfamily5, .fontfamily5 .inputbox, .fontfamily5 input.button { font-family: "Verdana", Arial, Helvetica, sans-serif; }
+.fontfamily6, .fontfamily6 .inputbox, .fontfamily6 input.button { font-family: "Geneva", Arial, Helvetica, sans-serif; }
+.fontfamily7, .fontfamily7 .inputbox, .fontfamily7 input.button { font-family: "Book Antiqua"; }
+/******************************/
+/******* Joomla Default *******/
+/******************************/
+.blog-featured h1, .blog h1, .contact h1, .page-header h1, .item-page h2, .item-page h1 { padding-bottom: 3px; margin-bottom: 15px; font-size: 20px; }
+.moduletable h3, .moduletable_menu h3 { margin-bottom: 15px; font-size: 18px; }
+.blog-featured h2, .blog h2 { font-size: 16px; }
+ul.actions { float: right; margin-top: -20px; }
+.item-page ul.actions { float: right; margin-top: -40px; }
+.actions li { float: left; }
+.btn-group .dropdown-menu { float: right; margin-top: -23px; }
+.dropdown-menu li { float: left; margin-left: 10px; }
+.pagination li { display: inline; }
+.pagination li.pagination-prev, .pagination li.pagination-next { display: inline; }
+.pagination { text-align: center; float: left; width: 100%; margin-bottom: 15px; }
+.pagination .pagenav { padding: 4px 8px; text-decoration: none; margin: 0px 4px; }
+.pagination .pagination-next a, .pagination .pagination-end a { margin: 0px 4px; text-decoration: none; }
+.pagination .pagination-start a, .pagination .pagination-prev a { margin: 0px 4px; text-decoration: none; }
+.pagenav .pagenav-prev, .pagenav .previous { float: left; margin-bottom: 15px; }
+.pagenav .pagenav-next, .pagenav .next { float: right; margin-bottom: 15px; }
+p.counter { margin-top: -5px; }
+.newsflash-title { margin-top: 15px; }
+.category-desc { margin-bottom: 15px; float: left; width: 100%; }
+dl.article-info dd { padding: 0; margin: 0; }
+#system-message-container, #system-message { margin: 0px; }
+#header p { margin: 0px; }
+p.readmore { text-align: right; }
+/******************************/
+/******* Joomla Default *******/
+/******************************/
+#modlgn-username, #modlgn-passwd, #jform_contact_name, #jform_contact_email, #jform_contact_emailmsg, #jform_contact_message, .search .inputbox { padding: 4px; }
+input.button, button.button, button.btn { padding: 4px 8px; }
+/******************************/
+/******* Joomla Default *******/
+/******************************/
+#login-form fieldset { border: none; padding: 0px; margin: 0px; }
+#modlgn-username, #modlgn-passwd { display: block; }
+#login-form p, #modlgn-username, #modlgn-passwd, #form-login-remember { margin: 0px 0px 10px 0px; }
+#login-form ul { margin-top: 10px; }
+form#member-registration fieldset, form#user-registration fieldset { margin-bottom: 15px; }
+form#login-form { padding: 10px; }
+/******************************/
+/******* Joomla Default *******/
+/******************************/
+.search .button { margin-left: 3px; }
+.search .form-limit { text-align: center; margin-top: 10px; }
+.result-created, .result-category, .result-text { padding: 0; margin: 0; }
+.result-created { margin-bottom: 10px; }
+#searchForm #ordering, #searchForm #limit { padding: 3px; }
+.search-results a { color: #000000; }
+.highlight { color: #000000; }
+/******************************/
+/******* Joomla Default *******/
+/******************************/
+span.contact-name { display: none; }
+form#member-registration, form#member-registration fieldset, form#user-registration, form#user-registration fieldset, form#contact-form { margin-bottom: 15px; }
+input#jform_contact_name, input#jform_contact_email, input#jform_contact_emailmsg { width: 300px; }
+textarea#jform_contact_message { width: 500px; }
+/******************************/
+/******* Joomla Config ********/
+/******************************/
+#right-right-only .moduletable h3, #left-left-only .moduletable h3, #left-left-right .moduletable h3, #right-left-right .moduletable h3, #right-right-only .moduletable_menu h3, #left-left-only .moduletable_menu h3, #left-left-right .moduletable_menu h3, #right-left-right .moduletable_menu h3, #center-right-center .moduletable h3, #center-right-center .moduletable_menu h3, #right-right-center .moduletable h3, #right-right-center .moduletable_menu h3, #left-left-center .moduletable h3, #left-left-center .moduletable_menu h3, #center-left-center .moduletable h3, #center-left-center .moduletable_menu h3, #left-left-right-center .moduletable h3, #left-left-right-center .moduletable_menu h3, #right-left-right-center .moduletable h3, #right-left-right-center .moduletable_menu h3, #center-left-right-center .moduletable h3, #center-left-right-center .moduletable_menu h3, #center-center-only .moduletable h3, #center-center-only .moduletable_menu h3 { padding-bottom: 6px; }
+#right-right-only .moduletable, #left-left-only .moduletable, #left-left-right .moduletable, #right-left-right .moduletable, #right-right-only .moduletable_menu, #left-left-only .moduletable_menu, #left-left-right .moduletable_menu, #right-left-right .moduletable_menu, #center-right-center .moduletable, #center-right-center .moduletable_menu, #right-right-center .moduletable, #right-right-center .moduletable_menu, #left-left-center .moduletable, #left-left-center .moduletable_menu, #center-left-center .moduletable, #center-left-center .moduletable_menu, #left-left-right-center .moduletable, #left-left-right-center .moduletable_menu, #right-left-right-center .moduletable, #right-left-right-center .moduletable_menu, #center-left-right-center .moduletable, #center-left-right-center .moduletable_menu, #center-center-only .moduletable, #center-center-only .moduletable_menu { margin-bottom: 15px; }
+#right-right-only .menu a, #left-left-only .menu a, #left-left-right .menu a, #right-left-right .menu a, #center-right-center .menu a, #right-right-center .menu a, #left-left-center .menu a, #center-left-center .menu a, #left-left-right-center .menu a, #right-left-right-center .menu a, #center-left-right-center .menu a, #center-center-only .menu a { padding: 3px 10px; text-decoration: none; display: block; margin: 1px 0px; }
+#right-right-only #modlgn-username, #right-right-only #modlgn-passwd, #left-left-only #modlgn-username, #left-left-only #modlgn-passwd, #left-left-right #modlgn-username, #left-left-right #modlgn-passwd, #right-left-right #modlgn-username, #right-left-right #modlgn-passwd, #right-right-center #modlgn-username, #right-right-center #modlgn-passwd, #center-right-center #modlgn-username, #center-right-center #modlgn-passwd, #left-left-center #modlgn-username, #left-left-center #modlgn-passwd, #center-left-center #modlgn-username, #center-left-center #modlgn-passwd, #left-left-right-center #modlgn-username, #left-left-right-center #modlgn-passwd, #center-left-right-center #modlgn-username, #center-left-right-center #modlgn-passwd, #right-left-right-center #modlgn-username, #right-left-right-center #modlgn-passwd, #center-center-only #modlgn-username, #center-center-only #modlgn-passwd { width: 93%; }
+#right-right-only .search label, #left-left-only .search label, #left-left-right .search label, #right-left-right .search label, #topmenu .search label, #topright .search label, #right-right-center .search label, #center-right-center .search label, #left-left-center .search label, #center-left-center .search label, #left-left-right-center .search label, #center-left-right-center .search label, #right-left-right-center .search label, #center-center-only .search label { display: none; }
+/******************************/
+/******* Joomla Toolbar *******/
+/******************************/
+#navigation { height: 28px; padding: 5px 0px; float: right; margin-top: 30px; height: auto; background: none; padding: 0px; margin-bottom: auto; }
+.navigation { display: none; }
+.navbar-toggle { display: none; }
+/******************************/
+/******* Joomla Toolbar *******/
+/******************************/
+#toolbar .menu a { font-size: 14px; font-weight: normal; text-decoration: none; }
+#toolbar .menu li { float: left; position:relative; margin-left: 25px; padding: 0px; border-bottom: none; }
+#toolbar .menu li.active a, #toolbar .menu li.active a:hover, #toolbar .menu li.active a:active, #toolbar .menu li.active a:focus { }
+#toolbar ul.menu a:hover { }
+/******************************/
+/******* Joomla Toolbar *******/
+/******************************/
+#toolbar .menu li li a { font-weight: normal; line-height: 1.8; font-size: 13px; background: none; }
+#toolbar .menu ul { float:none; left:-999em; position:absolute; z-index: 99; }
+#toolbar .menu ul { width: 170px; padding: 5px 0px 10px 0px; border-radius: 0px 0px 7px 7px; }
+#toolbar .menu ul li { width: 150px; padding: 2px 10px 2px 10px; background-color: none; position:relative;  margin-left: 0px; }
+#toolbar .menu li li, #toolbar li:hover ul, #toolbar li.sfhover ul { left: auto; }
+#toolbar ul.menu li li:hover { background: none; }
+#toolbar ul.menu li.active li a, #toolbar ul.menu li.active li a:hover, #toolbar ul.menu li.active li a:active, #toolbar ul.menu li.active li a:focus { background: none !important; }
+#toolbar ul.menu ul li.active a, #toolbar ul.menu ul li.active a:hover, #toolbar ul.menu ul li.active a:active, #toolbar ul.menu ul li.active a:focus { background: none !important; }
+#toolbar ul.menu li.active li a, #toolbar ul.menu li.active li a:hover, #toolbar ul.menu li.active li a:active, #toolbar ul.menu li.active li a:focus { background: none !important; }
+#toolbar ul.menu li.active li a, #toolbar ul.menu li.active li a:hover, #toolbar ul.menu li.active li a:active, #toolbar ul.menu li.active li a:focus { background: none !important; }
+/******************************/
+/******* Joomla Toolbar *******/
+/******************************/
+#toolbar .menu li li li a { font-weight: normal; font-size: 13px; }
+#toolbar .menu ul ul { margin: -1.8em 0 0 10.5em; }
+#toolbar .menu ul ul { position: absolute; z-index: 99; height: auto; }
+#toolbar .menu ul ul { padding: 0px; border-radius: 7px; }
+#toolbar ul.menu li li li:hover { }
+/******************************/
+/******* Joomla Toolbar *******/
+/******************************/
+#toolbar li:hover ul ul, #toolbar li:hover ul ul ul, #toolbar li.sfhover ul ul, #toolbar li.sfhover ul ul ul, #toolbar ul.menu li:hover ul ul, #toolbar ul.menu li:hover ul ul ul, #toolbar ul.menu li.sfhover ul ul, #toolbar ul.menu li.parentsfhover ul ul, #toolbar ul.menu li.parent-activesfhover ul ul, #toolbar ul.menu li.activesfhover ul ul, #toolbar ul.menu li.sfhover ul ul ul, #toolbar ul.menu li.parentsfhover ul ul ul, #toolbar ul.menu li.parent-activesfhover ul ul ul, #toolbar ul.menu li.activesfhover ul ul ul { left: -999em; }
+#toolbar li:hover ul, #toolbar li li:hover ul, #toolbar li li li:hover ul, #toolbar li.sfhover ul, #toolbar li li.sfhover ul, #toolbar li li li.sfhover ul, #toolbar ul.menu li:hover ul, #toolbar ul.menu li li:hover ul, #toolbar ul.menu li li li:hover ul, #toolbar ul.menu li.sfhover ul, #toolbar ul.menu li.parentsfhover ul, #toolbar ul.menu li.parent-activesfhover ul, #toolbar ul.menu li.activesfhover ul, #toolbar ul.menu li li.sfhover ul, #toolbar ul.menu li li.havesubchildsfhover ul, #toolbar ul.menu li li.havesubchild-activesfhover ul, #toolbar ul.menu li li.activesfhover ul, #toolbar ul.menu li li li.sfhover ul, #toolbar ul.menu li li li.havesubchildsfhover ul, #toolbar ul.menu li li li.havesubchild-activesfhover ul, #toolbar ul.menu li li li.activesfhover ul { left: auto; }
+/******************************/
+/******* Joomla Modules *******/
+/******************************/
+#body-right-only .cols-3 .column-1, #body-left-only .cols-3 .column-1 { width: 204px; float: left; }
+#body-right-only .cols-3 .column-2, #body-left-only .cols-3 .column-2 { width: 204px; float: left; margin-left: 14px; }
+#body-right-only .cols-3 .column-3, #body-left-only .cols-3 .column-3 { width: 204px; float: right; }
+#body-right-only .cols-2 .column-1, #body-left-only .cols-2 .column-1 { width: 312px; float: left; }
+#body-right-only .cols-2 .column-2, #body-left-only .cols-2 .column-2 { width: 312px; float: right; }
+#body-right-only .cols-1 .column-1, #body-left-only .cols-1 .column-1 { width: 640px; float: left; }
+#body-right-only .cols-4 .column-1, #body-left-only .cols-4 .column-1 { width: 145px; float: left; }
+#body-right-only .cols-4 .column-2, #body-left-only .cols-4 .column-2 { width: 145px; float: left; margin-left: 15px; }
+#body-right-only .cols-4 .column-3, #body-left-only .cols-4 .column-3 { width: 145px; float: left; margin-left: 15px; }
+#body-right-only .cols-4 .column-4, #body-left-only .cols-4 .column-4 { width: 145px; float: right; }
+#body-left-right .cols-3 .column-1 { width: 164px; float: left; }
+#body-left-right .cols-3 .column-2 { width: 164px; float: left; margin-left: 14px; }
+#body-left-right .cols-3 .column-3 { width: 164px; float: right; }
+#body-left-right .cols-2 .column-1 { width: 252px; float: left; }
+#body-left-right .cols-2 .column-2 { width: 252px; float: right; }
+#body-left-right .cols-1 .column-1 { width: 520px; float: left; }
+#body-wide .cols-5 .column-1 { width: 180px; float: left; }
+#body-wide .cols-5 .column-2 { width: 180px; float: left; margin-left: 15px; }
+#body-wide .cols-5 .column-3 { width: 180px; float: left; margin-left: 15px; }
+#body-wide .cols-5 .column-4 { width: 180px; float: left; margin-left: 15px; }
+#body-wide .cols-5 .column-5 { width: 180px; float: right; }
+#body-wide .cols-4 .column-1 { width: 228px; float: left; }
+#body-wide .cols-4 .column-2 { width: 228px; float: left; margin-left: 16px; }
+#body-wide .cols-4 .column-3 { width: 228px; float: left; margin-left: 16px; }
+#body-wide .cols-4 .column-4 { width: 228px; float: right; }
+#body-wide .cols-3 .column-1 { width: 310px; float: left; }
+#body-wide .cols-3 .column-2 { width: 310px; float: left; margin-left: 15px; }
+#body-wide .cols-3 .column-3 { width: 310px; float: right; }
+#body-wide .cols-2 .column-1 { width: 472px; float: left; }
+#body-wide .cols-2 .column-2 { width: 472px; float: right; }
+#body-wide .cols-1 .column-1 { width: 960px; float: left; }
+#body-right-only .cols-3 .column-1, #body-left-only .cols-3 .column-1, #body-right-only .cols-3 .column-2, #body-left-only .cols-3 .column-2, #body-right-only .cols-3 .column-3, #body-left-only .cols-3 .column-3, #body-right-only .cols-2 .column-1, #body-left-only .cols-2 .column-1, #body-right-only .cols-2 .column-2, #body-left-only .cols-2 .column-2, #body-right-only .cols-1 .column-1, #body-left-only .cols-1 .column-1, #body-right-only .cols-4 .column-1, #body-left-only .cols-4 .column-1, #body-right-only .cols-4 .column-2, #body-left-only .cols-4 .column-2, #body-right-only .cols-4 .column-3, #body-left-only .cols-4 .column-3, #body-right-only .cols-4 .column-4, #body-left-only .cols-4 .column-4, #body-left-right .cols-3 .column-1, #body-left-right .cols-3 .column-2, #body-left-right .cols-3 .column-3, #body-left-right .cols-2 .column-1, #body-left-right .cols-2 .column-2, #body-left-right .cols-1 .column-1, #body-wide .cols-5 .column-1, #body-wide .cols-5 .column-2, #body-wide .cols-5 .column-3, #body-wide .cols-5 .column-4, #body-wide .cols-5 .column-5, #body-wide .cols-4 .column-1, #body-wide .cols-4 .column-2, #body-wide .cols-4 .column-3, #body-wide .cols-4 .column-4, #body-wide .cols-3 .column-1, #body-wide .cols-3 .column-2, #body-wide .cols-3 .column-3, #body-wide .cols-2 .column-1, #body-wide .cols-2 .column-2, #body-wide .cols-1 .column-1 { margin-bottom: 15px; }
+/******************************/
+/******* Joomla Modules *******/
+/******************************/
+.footer99 .full { width: 960px; float: left; }
+.footer49 .first { float: left; width: 472px; }
+.footer49 .second { float: right; width: 472px; }
+.footer33 .first { float: left; width: 310px; }
+.footer33 .second { float: left; width: 310px; margin-left: 15px; }
+.footer33 .third { float: right; width: 310px; }
+.footer24 .first { float: left; width: 228px; }
+.footer24 .second { float: left; width: 228px; margin-left: 16px; }
+.footer24 .third { float: left; width: 228px; margin-left: 16px; }
+.footer24 .forth { float: right; width: 228px; }
+.footer19 .first { float: left; width: 180px; }
+.footer19 .second { float: left; width: 180px; margin-left: 15px; }
+.footer19 .third { float: left; width: 180px; margin-left: 15px; }
+.footer19 .forth { float: left; width: 180px; margin-left: 15px; }
+.footer19 .fifth { float: right; width: 180px; }
+/******************************/
+/******* Joomla Modules *******/
+/******************************/
+#user-right-only .user99 .full, #user-left-only .user99 .full { float: left; width: 640px; }
+#user-right-only .user49 .first, #user-left-only .user49 .first { float: left; width: 312px; }
+#user-right-only .user49 .second, #user-left-only .user49 .second { float: right; width: 312px; }
+#user-right-only .user33 .first, #user-left-only .user33 .first { float: left; width: 204px; }
+#user-right-only .user33 .second, #user-left-only .user33 .second { float: left; width: 204px; margin-left: 14px; }
+#user-right-only .user33 .third, #user-left-only .user33 .third { float: right; width: 204px; }
+#user-left-right .user33 .first { float: left; width: 164px; }
+#user-left-right .user33 .second { float: left; width: 164px; margin-left: 14px; }
+#user-left-right .user33 .third { float: right; width: 164px; }
+#user-left-right .user49 .first { float: left; width: 252px; }
+#user-left-right .user49 .second { float: right; width: 252px; }
+#user-left-right .user99 .full { float: left; width: 520px; }
+#user-wide .user99 .full { float: left; width: 960px; }
+#user-wide .user49 .first { float: left; width: 472px; }
+#user-wide .user49 .second { float: right; width: 472px; }
+#user-wide .user33 .first { float: left; width: 310px; }
+#user-wide .user33 .second { float: left; width: 310px; margin-left: 15px; }
+#user-wide .user33 .third { float: right; width: 310px; }
+#user-right-only .user99 .full, #user-left-only .user99 .full, #user-right-only .user49 .first, #user-left-only .user49 .first, #user-right-only .user49 .second, #user-left-only .user49 .second, #user-right-only .user33 .first, #user-left-only .user33 .first, #user-right-only .user33 .second, #user-left-only .user33 .second, #user-right-only .user33 .third, #user-left-only .user33 .third, #user-left-right .user33 .first, #user-left-right .user33 .second, #user-left-right .user33 .third, #user-left-right .user49 .first, #user-left-right .user49 .second, #user-left-right .user99 .full, #user-wide .user99 .full, #user-wide .user49 .first, #user-wide .user49 .second, #user-wide .user33 .first, #user-wide .user33 .second, #user-wide .user33 .third { margin-bottom: 15px; }
+/*****************************/
+/*********** STYLES **********/
+/*****************************/
+#header-outer { border-bottom: 1px solid #dedede; }
+#top-float, #banner-float, #advert-float, #upper-float, #bottom-float, #footer-float, #body-float { border-bottom: 1px solid #dedede; }
+.advert a, .upper a, .user a, .bottom a, .footer a, .dropdown-menu li a { color: #000000; text-decoration: none; }
+/*****************************/
+/*********** STYLES **********/
+/*****************************/
+.blog-featured h2 a, .blog h2 a, .readmore a, a.readmore, #login-form a, #copyright a, #designer a, .pagination a, .pagenav a, .newsflash-title a, .items-more a, .category-name a, #topmenu a, #topright a, .item-page h2 a { color: #000000; text-decoration: none; }
+.blog-featured h1, .blog h1, .contact h1, .page-header h1, .item-page h2, .item-page h1 { border-bottom: 1px solid #dedede; }
+.pagination .pagenav { border: 1px solid #c0c0c0; }
+.pagination .pagination-next a, .pagination .pagination-end a { color: #000000; }
+.pagination .pagination-start a, .pagination .pagination-prev a { color: #000000; }
+#modlgn-username, #modlgn-passwd, #jform_contact_name, #jform_contact_email, #jform_contact_emailmsg, #jform_contact_message, .search .inputbox { border: 1px solid #c0c0c0; }
+input.button, button.button, button.btn { border: 1px solid #c0c0c0; }
+form#login-form { border: 1px solid #dedede; }
+#searchForm #ordering, #searchForm #limit { border: 1px solid #c0c0c0; }
+.contact-form fieldset { border: 1px solid #dedede; }
+.category-desc { border-bottom: 1px solid #dedede; }
+/*****************************/
+/*********** STYLES **********/
+/*****************************/
+#right-right-only .moduletable h3, #left-left-only .moduletable h3, #left-left-right .moduletable h3, #right-left-right .moduletable h3, #right-right-only .moduletable_menu h3, #left-left-only .moduletable_menu h3, #left-left-right .moduletable_menu h3, #right-left-right .moduletable_menu h3, #center-right-center .moduletable h3, #center-right-center .moduletable_menu h3, #right-right-center .moduletable h3, #right-right-center .moduletable_menu h3, #left-left-center .moduletable h3, #left-left-center .moduletable_menu h3, #center-left-center .moduletable h3, #center-left-center .moduletable_menu h3, #left-left-right-center .moduletable h3, #left-left-right-center .moduletable_menu h3, #right-left-right-center .moduletable h3, #right-left-right-center .moduletable_menu h3, #center-left-right-center .moduletable h3, #center-left-right-center .moduletable_menu h3, #center-center-only .moduletable h3, #center-center-only .moduletable_menu h3 { border-bottom: 1px solid #dedede; }
+#right-right-only .menu a, #left-left-only .menu a, #left-left-right .menu a, #right-left-right .menu a, #center-right-center .menu a, #right-right-center .menu a, #left-left-center .menu a, #center-left-center .menu a, #left-left-right-center .menu a, #right-left-right-center .menu a, #center-left-right-center .menu a, #center-center-only .menu a { border: 1px solid #dedede; color: #000000; }
+/*****************************/
+/*********** STYLES **********/
+/*****************************/
+#toolbar .menu a { color: #000000; }
+#toolbar .menu li li a { color: #000000; }
+#toolbar .menu li li li a { color: #000000; }
+#toolbar .menu ul { background: #FFFFFF; border-bottom: 1px solid #dedede; border-right: 1px solid #dedede; border-left: 1px solid #dedede; }
+#toolbar .menu ul ul { background: #FFFFFF; border-top: 1px solid #dedede; }
+#toolbar ul.menu li.active li a, #toolbar ul.menu li.active li a:hover, #toolbar ul.menu li.active li a:active, #toolbar ul.menu li.active li a:focus { color: #000000; }
